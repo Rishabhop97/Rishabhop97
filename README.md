@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi, I'm Rishabh<br><br>Self-taught developer who loves turning ideas into working apps.<br><br>Skills I work with:<br>- HTML & CSS<br>- C++<br>- Python<br><br>I build Android apps that look and feel real — prank apps, utility tools, and experimental projects — always staying on the legal side of things.<br><br>Currently cooking:<br>- Realistic prank applications (like PhonePe-style UPI pranks)<br>- Small tools & experiments in Python & C++<br>- Clean front-end stuff with HTML/CSS<br><br>Open to collabs, feedback, and cool project ideas.
+<br>### Hi, I'm Rishabh<br><br>Self-taught developer who loves turning ideas into working apps.<br><br>Skills I work with:<br>- HTML & CSS<br>- C++<br>- Python<br><br>I build Android apps that look and feel real — prank apps, utility tools, and experimental projects — always staying on the legal side of things.<br><br>Currently cooking:<br>- Realistic prank applications (like PhonePe-style UPI pranks)<br>- Small tools & experiments in Python & C++<br>- Clean front-end stuff with HTML/CSS<br><br>Open to collabs, feedback, and cool project ideas.
 
 
 ## 🌐 Socials:
